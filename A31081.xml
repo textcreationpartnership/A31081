@@ -1,0 +1,248 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Proposals for the first volume of the works of the eminently learned Dr. Isaac Barrow, late master of Trinity College in Cambridge and since his death publish'd by the Reverend Dr. Tillotson, Dean of Canterbury : now printing in folio, 1682.</title>
+            <author>Aylmer, Brabazon, d. 1707?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A31081</idno>
+            <idno type="STC">Wing B952</idno>
+            <idno type="STC">ESTC R35742</idno>
+            <idno type="EEBO-CITATION">15554795</idno>
+            <idno type="OCLC">ocm 15554795</idno>
+            <idno type="VID">103705</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A31081)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 103705)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1582:36)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Proposals for the first volume of the works of the eminently learned Dr. Isaac Barrow, late master of Trinity College in Cambridge and since his death publish'd by the Reverend Dr. Tillotson, Dean of Canterbury : now printing in folio, 1682.</title>
+                  <author>Aylmer, Brabazon, d. 1707?</author>
+               </titleStmt>
+               <extent>1 sheet (2 p.)   </extent>
+               <publicationStmt>
+                  <publisher>B. Aylmer],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1682.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>"The undertaker, Brabazon Aylmer, having had encouragement by printing the said learned author's works in several volumes; doth now, for the accommodation of all persons, and making more publick the said works, propose as followeth."</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Barrow, Isaac, 1630-1677.</term>
+               <term>Publishers and publishing --  England --  Catalogs.</term>
+               <term>Booksellers and bookselling --  England --  Colportage, subscription trade, etc.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-07</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-07</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proposals">
+            <pb n="1" facs="tcp:103705:1" rendition="simple:additions"/>
+            <head>PROPOSALS For the Firſt Volume of the WORKS of the eminently Learned Dr. <hi>ISAAC BARROW,</hi> late Maſter of <hi>Tri<g ref="char:EOLhyphen"/>nity</hi> College in <hi>Cambridge:</hi> and ſince his Death Publiſh'd by the Reverend Dr. <hi>TILLOTSON,</hi> Dean of <hi>Canterbury:</hi> Now Printing <hi>in Folio.</hi> 1682.</head>
+            <p>THE Undertaker, <hi>Brabazon Aylmer,</hi> having had encouragement by Printing the ſaid Learned Authour's WORKS in ſeveral ſmall Volumes; Doth now, for the accommodation of all Perſons, and ma<g ref="char:EOLhyphen"/>king more publick the ſaid WORKS, Propoſe as followeth.</p>
+            <list>
+               <item>1. That this Firſt Volume contains all the Works in <hi>Engliſh</hi> of the ſaid Authour's which have already been Publiſhed: <hi>viz.</hi>
+                  <list>
+                     <item>1. <hi>Twelve Sermons upon ſeveral Occaſions.</hi>
+                     </item>
+                     <item>2. <hi>Ten Sermons againſt Evil-ſpeaking, or Vices of the Tongue.</hi>
+                     </item>
+                     <item>3. <hi>Eight Sermons of the Love of God and our Neighbour.</hi>
+                     </item>
+                     <item>4. <hi>The Duty and Reward of Bounty to the Poor.</hi>
+                     </item>
+                     <item>5. <hi>A Sermon on the Paſſion of our Bleſſed Saviour.</hi>
+                     </item>
+                     <item>6. <hi>An Expoſition of the Lord's Prayer and the Decalogue; alſo the Doctrine of the Sacraments.</hi>
+                     </item>
+                     <item>7. <hi>A Learned Treatiſe of the Pope's Supremacy: To which is added, A Diſcourſe concerning the <g ref="char:V">Ʋ</g>nity of the Church.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>2. That to this Volume will be prefixed the Life of the ſaid incomparable Authour: and an exact alphabetical Table of the moſt material Things in the whole Volume: as alſo his Effigies exactly engraved.</item>
+               <item>3. That this Volume will contain about 235 Sheets, or 940 Pages, of excellent Paper and Print.</item>
+               <item>4. That the Subſcribers pay to the Undertaker 18 ſhillings for each Book <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nbound, <hi>viz</hi> 10 ſhillings preſent money; and the remaining 8 ſhillings upon the Delivery of the ſaid Book to the Subſcriber or his Aſſigns: which cannot be thought dear, being not a peny a ſheet: and ſo well printed as aforeſaid: the Undertaker alſo paying conſide<g ref="char:EOLhyphen"/>rable Copy-money.</item>
+               <item>5. For the Encouragement of all Perſons who ſhall ſubſcribe, or procure Subſcriptions for ſix Books, at the rate aforeſaid, ſhall be preſented with a ſeventh <hi>gratis.</hi>
+               </item>
+               <item>6. That no Perſons expect the Benefit of theſe Propoſals who pay not the Firſt Payment before the firſt of <hi>February:</hi> After which time, the Undertaker reſolves not to ſell it under 20 ſhillings unbound; and poſſibly not ſo cheap.</item>
+               <item>7. That the ſaid Book is now in the Preſs, and will be finiſh'd by the twenty fifth of <hi>March</hi> next at fartheſt.</item>
+            </list>
+            <p>
+               <hi>Vide</hi> the Propoſals for a Second Volume on the other ſide.</p>
+         </div>
+         <div type="proposals">
+            <pb n="2" facs="tcp:103705:2"/>
+            <head>PROPOSALS For the Second Volume of the WORKS of <hi>ISAAC BARROW,</hi> D. D. and late Maſter of <hi>Trinity</hi> College in <hi>Cambridge:</hi> and ſince his Death Publiſh'd by the Reverend Dr. <hi>TILLOTSON,</hi> Dean of <hi>Canterbury:</hi> Now Prin<g ref="char:EOLhyphen"/>ting <hi>in Folio:</hi> (Never Printed before) 1682.</head>
+            <p>AMongſt all the WORKS that this Learned Authour hath left, none has been more earneſtly deſired than this incomparable Piece upon the <hi>CREED;</hi> wherein he hath not onely explain'd and confirm'd the great Doctrine of our Religion; but likewiſe ſhewn what influence every Article of our Faith ought to have upon our Practice. The Undertaker, for the accommodation of all Perſons, and making more publick the ſaid Book, doth propoſe as followeth; <hi>viz.</hi>
+            </p>
+            <list>
+               <item>1. That this Second Volume doth contain many large Sermons upon the ſeveral Articles of the Apoſtles <hi>CREED:</hi> with an exact alphabetical Table of the moſt material Things treated of.</item>
+               <item>2. That the ſaid Book will contain about 140 Sheets, or 560 Pages: of an excellent Pa<g ref="char:EOLhyphen"/>per and Print: alſo the Authour's Effigies exactly engraved.</item>
+               <item>3. That the Subſcribers pay to the Undertaker 12 ſhillings for each Book unbound, as fol<g ref="char:EOLhyphen"/>loweth: 6 ſhillings preſent money; and the remaining 6 ſhillings upon the Delive<g ref="char:EOLhyphen"/>ry of the ſaid Book to the Subſcriber or his Aſſigns.</item>
+               <item>4. That for the Encouragement of all Perſons who ſhall ſubſcribe, or procure Subſcripti<g ref="char:EOLhyphen"/>ons for ſix Books, at the rate aforeſaid, ſhall be preſented with a ſeventh <hi>gratis.</hi>
+               </item>
+               <item>5. That this Book is alſo in the Preſs, and will be finiſhed by the twenty fifth of <hi>March</hi> next at fartheſt.</item>
+               <item>6. That no Perſons expect the Benefit of theſe Propoſals who pay not the Firſt Payment before the firſt of <hi>February:</hi> After which time the Undertaker reſolves not to ſell it under 13 <hi>s.</hi> 6 <hi>d.</hi> unbound; and poſſibly not ſo cheap.</item>
+               <item>7. That they which have the Firſt Volume in parts already may have this Volume alone.</item>
+            </list>
+            <p>
+               <hi>The <g ref="char:V">Ʋ</g>ndertaker,</hi> Brabazon Aylmer, <hi>at the three Pigeons in</hi> Cornhill, <hi>over againſt the</hi> Royal-Exchange <hi>in</hi> London.</p>
+            <p>For the eaſe of Subſcribers that live in the Country, the Undertaker hath appointed the Bookſellers here mentioned to receive their Subſcriptions and money; who give theſe Propoſals <hi>gratis.</hi>
+            </p>
+            <list>
+               <item>
+                  <hi>Henry Dickenſon</hi> in <hi>Cam<g ref="char:EOLhyphen"/>bridge.</hi>
+               </item>
+               <item>
+                  <hi>Sam. Simpſon</hi> in <hi>Cam<g ref="char:EOLhyphen"/>bridge.</hi>
+               </item>
+               <item>
+                  <hi>Richard Davis</hi> in <hi>Oxford.</hi>
+               </item>
+               <item>
+                  <hi>George Weſt</hi> in <hi>Oxford.</hi>
+               </item>
+               <item>
+                  <hi>George Roſe</hi> in <hi>Norwich.</hi>
+               </item>
+               <item>
+                  <hi>Edward Giles</hi> in <hi>Norwich.</hi>
+               </item>
+               <item>
+                  <hi>Tho. Wall</hi> in <hi>Briſtol.</hi>
+               </item>
+               <item>
+                  <hi>Ch. Allen</hi> in <hi>Briſtol.</hi>
+               </item>
+               <item>
+                  <hi>George. Tongue</hi> in <hi>Warwick.</hi>
+               </item>
+               <item>
+                  <hi>Richard Lambert</hi> in <hi>York.</hi>
+               </item>
+               <item>
+                  <hi>John Goodri<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>k</hi> in <hi>Hull.</hi>
+               </item>
+               <item>
+                  <hi>Sam. Evans</hi> in <hi>Worceſter.</hi>
+               </item>
+               <item>
+                  <hi>John Jones</hi> in <hi>Worceſter.</hi>
+               </item>
+               <item>
+                  <hi>Sam. Richards</hi> in <hi>Nottingham.</hi>
+               </item>
+               <item>
+                  <hi>Robert Eveleigh</hi> in <hi>Exeter.</hi>
+               </item>
+               <item>
+                  <hi>Mich. Hide</hi> in <hi>Exeter.</hi>
+               </item>
+               <item>
+                  <hi>John Conneber</hi> in <hi>Barnſtable.</hi>
+               </item>
+               <item>
+                  <hi>Will. Churchill</hi> in <hi>Dorcheſter.</hi>
+               </item>
+               <item>
+                  <hi>Robert Foſter</hi> in <hi>Shrewsbury.</hi>
+               </item>
+               <item>
+                  <hi>Richard Hunt</hi> in <hi>Hereford.</hi>
+               </item>
+               <item>
+                  <hi>Samuel Palmer</hi> in <hi>Glouceſter.</hi>
+               </item>
+               <item>
+                  <hi>John Tuthil</hi> in <hi>Yarmouth.</hi>
+               </item>
+               <item>
+                  <hi>William Bailey</hi> in <hi>Lichfeild.</hi>
+               </item>
+               <item>
+                  <hi>Edward Pawlet</hi> in <hi>Grantham.</hi>
+               </item>
+            </list>
+         </div>
+      </body>
+   </text>
+</TEI>
